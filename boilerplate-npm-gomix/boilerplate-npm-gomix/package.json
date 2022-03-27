@@ -1,6 +1,6 @@
 {
-	"author": "Greck Santiago",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Greck Santiago",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
